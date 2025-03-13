@@ -25,7 +25,6 @@ body {
     height: 100%;
     object-fit: cover;
     display: none;
-    max-width: 200px;
 }
 .slide.active {
     display: block;
